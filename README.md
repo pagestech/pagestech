@@ -1,14 +1,14 @@
-# EDtunnel
+# pagestech
 
 <p align="center">
   <img src="https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository for [https://github.com/pagestech/pagestechl](https://github.com/pagestech/pagestech)
 
-ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
+ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/farkerzil)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/pagestech/pagestech)
 
 ## available branches and explain
 
@@ -34,11 +34,11 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/3Kmfi6HP/EDtunnel/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/pagestech/pagestech/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pagestech/pagestech)
 
 ## Lazy to deploy
 
@@ -89,7 +89,7 @@ Note: `UUID` is the uuid you want to set. pages.dev and worker.dev all of them m
 
 2. cpoy subscribe url link `https://edtunnel.pages.dev/bestip/uuid your set` to any clients(clash/v2rayN/v2rayNG) you want to use.
 
-3. done. if have any questions please join [@edtunnel](https://t.me/edtunnel)
+3. done. if have any questions please join [@farkerzil](https://t.me/farkerzil)
 
 ## multiple port support (Optional)
 
@@ -125,7 +125,7 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 ## Star History
 
-<a href="https://star-history.com/#3Kmfi6HP/EDtunnel&Date">
+<a href="https://star-history.com/#pagestech/pagestech&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
