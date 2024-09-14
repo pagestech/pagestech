@@ -1,16 +1,31 @@
-name = "cf-worker-ws-dev" # todo
+name = "nginx" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 
+[[routes]]
+pattern = "helloworld.pages-worker.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "usa.visa.com.pages-worker.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "mobile.useinsider.com.pages-worker.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "speedtest.net.pages-worker.us.kg"
+custom_domain = true
+[[routes]]
+pattern = "www.who.int.pages-worker.us.kg"
+custom_domain = true
+
 [vars]
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-# PROXYIP = ""
-# DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
+# UUID = "9db7e000-1490-4c9a-a844-484c68c46657"
+# PROXYIP = "1.2.3.4"
+# DNS_RESOLVER_URL = "https://dns.adguard-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-# UUID = "1b6c1745-992e-4aac-8685-266c090e50ea,89b64978-6244-4bf3-bf64-67ade4ce5c8f,d342d11e-d424-4583-b36e-524ab1f0afa4"
-# VLESS = "vless://"
+UUID = "8e5d14a4-c57a-4169-84b9-bb0caf9d67fe,486d4195-fd05-4bb9-9ccb-2ad0c7d0e87a,15f2e08b-f3fb-4543-9f54-5ae8eb03c84d"
