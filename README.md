@@ -34,11 +34,11 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/farkerzil)
 
 ## Deploy in worker.dev
 
-1. Copy `_worker.js` code from [here](https://github.com/pagestech/pagestech/blob/main/_worker.js).
+1. Copy `_worker.js` code from [here](https://github.com/pagestech4/pagestech4/blob/main/_worker.js).
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pagestech/pagestech)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/pagestech4/pagestech4)
 
 ## Lazy to deploy
 
@@ -125,7 +125,7 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
 
 ## Star History
 
-<a href="https://star-history.com/#pagestech/pagestech&Date">
+<a href="https://star-history.com/#pagestech/pagestech4&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
